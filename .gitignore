@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Kivy / Buildozer
+.buildozer/
+bin/
+
+# Build files
+*.apk
+*.aab
+*.apks
+
+# IDE / editors
+.vscode/
+.idea/
+
+# Android / Gradle
+.gradle/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
